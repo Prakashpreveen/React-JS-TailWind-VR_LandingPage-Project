@@ -6,3 +6,7 @@
   font-family: monospace;
   color-scheme: dark;
 }
+
+html {
+  scroll-padding-top: 80px;
+}
