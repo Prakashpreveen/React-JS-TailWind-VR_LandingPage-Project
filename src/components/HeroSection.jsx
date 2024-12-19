@@ -27,7 +27,7 @@ const HeroSection = () => {
           Documentation
         </a>
       </div>
-      <div className="flex mt-10 justify-center px-4">
+      <div className="flex mt-10 justify-center">
         <video
           autoPlay
           loop
